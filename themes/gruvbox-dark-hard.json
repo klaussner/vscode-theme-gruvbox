@@ -945,7 +945,6 @@
     // BASE COLORS
     "focusBorder": "#3c3836",
     "foreground": "#ebdbb2",
-    "widget.shadow": "#1d202130",
     "selection.background": "#689d6a80",
     "errorForeground": "#fb4934",
     // BUTTON
